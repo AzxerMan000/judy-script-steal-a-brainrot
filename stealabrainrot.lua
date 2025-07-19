@@ -1185,7 +1185,7 @@ SubmitButton.MouseButton1Click:Connect(function()
         task.wait(0.4)
         ScreenGui:Destroy()
         Blur:Destroy()
-        print("[ArbixHub]: ArbixBlur destroyed")
+        print("[VoidstrikeHub]: ArbixBlur destroyed")
         local success, errorMsg = pcall(function()
             local func = loadstring(scriptToLoad)
             if not func then
@@ -1194,9 +1194,9 @@ SubmitButton.MouseButton1Click:Connect(function()
             func()
         end)
         if not success then
-            warn("[ArbixHub ERROR]: Failed to execute scriptToLoad: " .. tostring(errorMsg))
+            warn("[voidstrikeHub ERROR]: Failed to execute scriptToLoad: " .. tostring(errorMsg))
         else
-            print("[ArbixHub]: Successfully executed scriptToLoad")
+            print("[voidstrikeHub]: Successfully executed scriptToLoad")
         end
     else
         NotificationFrame.Visible = true
