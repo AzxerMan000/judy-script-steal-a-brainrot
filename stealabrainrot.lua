@@ -1,2 +1,1321 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local K={"\050\071\103\061","\054\121\086\079\090\055\061\061","\085\085\112\106\051\097\088\079\097\077\118\047\087\087\116\061";"\087\067\073\072\047\104\056\061","\083\110\047\117\082\076\073\056\108\084\048\102\066\079\081\097\107\055\061\061";"\088\115\111\043\066\105\081\101\054\071\090\113\082\065\088\105\117\116\061\061","\108\110\049\053\066\078\108\056\086\083\083\101\111\119\047\053\108\043\081\087","\078\112\083\110\065\105\083\085\077\084\079\121\050\075\061\061";"\098\089\076\080\055\077\118\120\075\074\108\066\115\081\078\082\082\115\074\101\099\070\047\097\047\107\088\084\073\089\119\070\066\073\069\110\066\067\111\107\110\108\048\088";"\087\067\073\115\066\055\061\061";"\065\113\047\053\066\115\100\068\111\085\090\085\050\106\048\076","\122\071\073\083\120\116\088\050\098\070\111\105\067\051\052\073\065\106\121\055\116\084\067\083\068\109\078\105\050\075\086\072\109\105\117\089\043\084\111\052\074\043\121\076\081\099\111\098\119\065\054\114\069\078\108\075\103\104\087\072\079\078\116\074\108\068\087\097\053\111\090\104\083\083\065\082\066\050\047\081\112\078\102\070\077\052\056\116\068\049\102\085\102\114\053\121\106\074\115\088\115\054\056\112\067\121\083\117\066\084\056\105\065\082\056\061","\083\084\106\097\049\084\083\089\103\076\108\079\077\084\083\085\077\084\083\119\103\111\061\061";"\047\087\081\089\050\110\103\061";"\047\112\053\121\050\110\103\061";"\086\065\086\053\049\043\108\102\083\116\061\061","\049\112\083\097\050\110\047\079","\078\112\083\110\083\084\106\074","\049\112\106\102\047\084\073\097","\065\105\081\104\065\106\048\122\050\084\086\055\083\043\108\056\104\115\049\061";"\047\105\106\097\047\111\061\061";"\068\104\086\115\117\051\104\119\110\070\099\079\078\104\106\051\083\066\113\068\043\066\106\054\057\090\053\117\074\057\078\078\047\067\111\070\066\055\061\061","\104\119\111\056\086\084\079\088\088\104\049\061";"\084\121\071\118\050\118\074\087\085\104\066\043\085\070\049\061";"\066\115\079\113\047\111\061\061","\047\105\067\090\077\084\086\068","\074\054\087\090\081\055\112\079\116\106\106\117";"\066\105\073\102\066\105\106\113","\077\084\073\102\077\104\067\074\047\087\103\061";"\077\104\122\055\066\104\086\101","\050\084\073\090\047\118\086\113\049\112\079\102\047\055\061\061";"\066\105\090\090\049\075\061\061";"\082\050\049\120\050\054\101\117\112\115\054\067";"\078\112\083\110\111\115\083\113\077\084\073\102","\117\075\061\061","\065\112\048\082\049\075\061\061","\050\084\083\102","\050\071\076\061","\078\115\079\119\078\106\086\065\083\104\090\065\049\105\119\110\088\076\065\061","\050\113\073\104\083\071\077\113\078\085\108\121\077\119\077\089\054\118\119\061","\050\104\106\113\107\116\061\061","";"\050\079\106\103\050\084\108\057\083\118\079\122\117\104\106\079";"\047\110\086\067\066\075\061\061","\117\074\075\079\047\099\068\048\117\075\061\061","\077\084\106\074\050\084\065\061","\082\118\108\113\049\076\077\079\077\116\061\061","\079\066\103\077\086\122\072\116\050\113\102\097\121\118\068\061","\077\083\108\071\107\119\086\097\086\112\079\055\065\076\049\105\088\115\066\061";"\049\084\086\090\050\084\055\061";"\077\115\090\081\111\112\049\043\082\104\048\079\083\084\097\074\047\055\061\061";"\106\052\122\115\053\074\090\050\114\068\057\070\078\116\061\061","\049\105\083\113\050\104\083\113\066\087\108\090\066\112\053\079";"\065\118\076\105\107\105\077\119\104\078\090\088\049\079\090\119\049\111\061\061","\112\067\121\104\057\103\071\070\084\089\049\070\087\043\103\076\069\120\051\075\081\113\073\050\109\047\068\068\047\043\089\079\105\057\050\113\090\099\102\122\054\097\101\066";"\077\105\086\066\086\113\068\056\108\067\088\056\108\083\048\114\086\071\103\061","\077\084\073\043\077\118\081\048\050\112\049\061";"\072\080\114\121\043\118\048\043\099\120\056\055";"\049\110\108\089\107\104\122\115","\087\067\073\048\050\112\108\079\054\116\061\061","\083\065\073\099\083\071\077\055\078\079\111\056\047\104\081\065\050\084\113\061","\077\079\048\084\083\065\086\101\078\076\077\122\111\085\106\117\050\111\061\061","\087\067\073\097\047\087\108\090\077\084\106\074\050\084\065\061"}local function h(h)return K[h-(64186+-43917)]end for h,q in ipairs({{-190600-(-190601),190990+-190927},{468638-468637;154224-154214};{-210808+210819,204696+-204633}})do while q[128948+-128947]<q[919283+-919281]do K[q[-321994-(-321995)]],K[q[27988+-27986]],q[562370-562369],q[-47034-(-47036)]=K[q[789626+-789624]],K[q[-308144-(-308145)]],q[-661444-(-661445)]+(-135684-(-135685)),q[-1037597-(-1037599)]-(673073+-673072)end end do local h=table.concat local q=math.floor local S=type local P=string.char local D={h=-1031225+1031247;B=-632974+632998;["\050"]=-1012336+1012363,["\054"]=-7706+7736,V=140357+-140344,c=-289758+289760;l=415968-415951,["\051"]=989268-989209;R=-741332+741350;k=-163811+163837;U=421362-421327;e=-21184+21227,v=821801-821794,["\047"]=965845+-965820;y=133270+-133223,n=126275-126220,s=520595+-520556;G=853770+-853767;D=-59777-(-59817);z=-522295-(-522352);W=-706271+706294,A=-307808-(-307828);Z=401542-401509;t=-551896+551896;d=-1003541-(-1003542),J=131801-131767;Y=524369+-524319,F=-464668+464699,["\053"]=241557+-241508,S=-497970+497991;i=-855237+855291,["\057"]=-702491-(-702501),H=676772+-676728,m=502799-502788;g=-676078+676086,q=-547243+547295,K=-290087+290119,r=-427637-(-427652);f=-29656+29702,["\049"]=-873478-(-873506);b=-579462-(-579520),["\048"]=967710-967669,N=575104+-575085,E=569969-569909;M=116332-116303;T=905405-905399;["\052"]=-83879-(-83941),O=229050-229013;C=-728917+728970;o=98426+-98410;w=-604621-(-604657);["\043"]=217548-217497;x=-849623-(-849686);Q=377672+-377663,X=938513+-938501,p=-978336-(-978374);P=763014-762972,I=-609201+609262;["\056"]=-987907+987963;u=623733+-623719;["\055"]=1032345+-1032297,L=-453635-(-453639),j=-136950-(-136955),a=-963153+963198}local x=table.insert local b=string.len local a=K local Y=string.sub for K=-291390+291391,#a,-767433+767434 do local U=a[K]if S(U)=="\115\116\114\105\110\103"then local S=b(U)local n={}local B=681315-681314 local W=-110283-(-110283)local A=123347-123347 while B<=S do local K=Y(U,B,B)local h=D[K]if h then W=W+h*(-947345-(-947409))^((528319-528316)-A)A=A+(-774281-(-774282))if A==633403-633399 then A=-717749+717749 local K=q(W/(-49041-(-114577)))local h=q((W%(562091+-496555))/(-865391-(-865647)))local S=W%(947780-947524)x(n,P(K,h,S))W=644096-644096 end elseif K=="\061"then x(n,P(q(W/(-945295-(-1010831)))))if B>=S or Y(U,B+(515804-515803),B+(213160-213159))~="\061"then x(n,P(q((W%(-860380+925916))/(-124734+124990))))end break end B=B+(-268780-(-268781))end a[K]=h(n)end end end return(function(K,S,P,D,x,b,a,r,B,Q,A,n,J,g,W,U,Y,z,q,R,M)W,r,Q,B,g,z,U,q,R,A,Y,J,M,n=function(K)for h=642715-642714,#K,-422799+422800 do U[K[h]]=U[K[h]]+(110034-110033)end if P then local q=P(true)local S=x(q)S[h(180098+-159822)],S[h(569736+-549447)],S[h(120910+-100627)]=K,A,function()return 663520+1979094 end return q else return D({},{[h(-1018793-(-1039082))]=A;[h(533654+-513378)]=K,[h(-278973-(-299256))]=function()return 2803290-160676 end})end end,function(K,h)local S=W(h)local P=function(P,D,x,b,a,Y,U)return q(K,{P;D;x,b;a,Y,U},h,S)end return P end,function(K,h)local S=W(h)local P=function()return q(K,{},h,S)end return P end,-1005536-(-1005536),function(K,h)local S=W(h)local P=function(P,D,x)return q(K,{P,D,x},h,S)end return P end,function(K,h)local S=W(h)local P=function(P,D,x,b,a)return q(K,{P,D;x;b,a},h,S)end return P end,{},function(q,P,D,x)local u,B,T,X,d,L,V,i,C,e,I,J,y,f,w,v,A,k,l,c,G,m,Z,E,W,H,O,a,F,U,p,j,N,s while q do if q<838256+6459852 then if q<4462957-722780 then if q<-727161+3340756 then if q<488485+1630598 then if q<-423026+1598037 then if q<899532+264263 then if q<512626-(-615917)then y=h(315161-294873)u=829401+19251988626219 B=h(985464+-965164)a=h(-439667-(-459977))q=K[a]U=K[B]A=Y[D[-220152+220153]]J=Y[D[-270367-(-270369)]]L=J(y,u)W=A[L]A=h(-121903+142229)A=U[A]B={A(U,W)}a=q(S(B))q=a()q=K[h(-198321-(-218606))]a={}else F=h(947362-927082)q=K[F]F=h(364265+-343948)K[F]=q q=4614699-(-676881)end else c=j G=c H[c]=G c=nil q=3483737-(-289652)end else if q<-27636+1480926 then H=h(71417+-51092)q=212144+15897439 N=K[H]H=h(861331-841022)e=N[H]l=e else q=Y[D[-169052+169062]]B=Y[D[5043+-5032]]U[q]=B q=Y[D[-85978+85990]]B={q(U)}a={S(B)}q=K[h(-120177+140467)]end end else if q<2743707-356064 then if q<1636639-(-635622)then if q<-223182+2440926 then q=-877342+3280602 Y[B]=a else q=1231868-(-1042309)end else q=true q=q and-661942+10659283 or 6835411-(-628730)end else if q<954590+1556027 then E=R(E)X=nil I=R(I)G=R(G)q=-342420+6137939 C=R(C)k=R(k)s=R(s)else j=#H F=-606840+606840 c=j==F q=c and 11523540-296553 or 14989757-378736 end end end else if q<-346985+3554272 then if q<3879228-801204 then if q<937033+2019546 then if q<2636362-(-55827)then U=nil q=-325094+9073135 Y[D[-90577+90582]]=a else q=1044351+3451283 i=h(420904-400595)l=K[i]a=l end else f=Y[B]q=f and 5138089-165985 or 1680947-(-484340)a=f end else if q<713335+2437831 then q=true a={}Y[D[293403+-293402]]=q q=K[h(924181-903863)]else Y[B]=f V=Y[s]p=-213751-(-213752)d=V+p T=X[d]O=e+T T=925268-925012 q=O%T e=q d=Y[G]T=N+d d=83174-82918 O=T%d q=1696762-(-706498)N=O end end else if q<-62408+3706846 then if q<-69197+3474964 then F=-1001701-(-1001701)j=#H q=581376+14029645 c=j==F else q={}Y[D[517364-517362]]=q a=Y[D[-724254-(-724257)]]J=374601+35184371714231 A=a a=B%J q=15264353-935672 y=-291190-(-291445)u=h(983301-963026)Y[D[-838766+838770]]=a L=B%y y=-722546-(-722548)J=L+y Y[D[-734673-(-734678)]]=J i=849525+-849524 y=K[u]u=h(-570773-(-591089))e=i L=y[u]y=L(U)L=h(805280-784959)l=y i=90483+-90483 W[B]=L N=e<i L=-584778-(-585012)u=-15215+15216 i=u-e end else if q<2998016-(-691252)then q=true q=415733+14831972 else a=f q=O q=2195341-30054 end end end end else if q<285840+4830716 then if q<710937+3615330 then if q<4729592-728794 then if q<-776325+4638881 then if q<543472+3227226 then W=-653781+653926 B=Y[D[909269-909266]]q=4105165-180498 U=B*W B=289847-289590 a=U%B Y[D[-917410+917413]]=a else j=j+C G=not E c=j<=F c=G and c G=j>=F G=E and G c=G or c G=-749566+1924189 q=c and G c=630659+2771267 q=q or c end else W=-614133-(-614134)B=Y[D[-1023328-(-1023331)]]U=B~=W q=U and 667385+3848649 or-935954+4698248 end else if q<624397+3469476 then a=h(-445176+465484)A=h(370646-350373)q=K[a]U=Y[D[145221+-145217]]l=g(-190175+7240582,{})u=h(-907277+927606)W=K[A]y=K[u]u={y(l)}L={S(u)}y=793199-793197 J=L[y]A=W(J)W=h(228323+-207999)B=U(A,W)U={B()}a=q(S(U))U=a B=Y[D[910086-910081]]a=B q=B and 16740461-830012 or-575746+3193475 else q=true q=q and-284984+9168937 or 8174657-(-249006)end end else if q<-525835+5044194 then if q<436599+4067464 then i=-215414+215417 l=n()H=h(239059-218730)e=-878305+878370 Y[l]=a q=Y[y]a=q(i,e)i=n()Y[i]=a c=M(1030335+9872585,{})q=157535+-157535 v=h(-566653-(-586926))e=q a=K[H]q=715101-715101 H={a(c)}N=q q={S(H)}a=-668948+668950 H=q q=H[a]a=h(1010054-989746)c=q q=K[a]j=Y[W]m=K[v]v=m(c)m=h(535322-514998)w=j(v,m)j={w()}a=q(S(j))j=n()Y[j]=a a=284966-284965 w=Y[i]m=w q=6792695-997176 w=-274197+274198 v=w w=492818-492818 F=v<w w=a-v else B=Y[D[-1006314-(-1006317)]]W=490803-490771 U=B%W e=-316708-(-316721)A=Y[D[862602-862598]]l=379917+-379915 y=Y[D[-1047302+1047304]]c=Y[D[-897568-(-897571)]]H=c-U c=-454575+454607 N=H/c i=e-N e=435289-435033 u=l^i L=y/u u=63699+-63698 J=A(L)A=4295679347-712051 W=J%A q=-1035829+7770251 J=705897-705895 A=J^U U=nil B=W/A A=Y[D[-403838+403842]]y=B%u u=4294794189-(-173107)L=y*u y=-530688+596224 l=-818865-(-819121)J=A(L)A=Y[D[780986-780982]]L=A(B)W=J+L J=-939636+1005172 B=nil A=W%J L=W-A J=L/y y=170172-169916 L=A%y u=A-L y=u/l A=nil l=-77810+78066 u=J%l W=nil i=J-u l=i/e J=nil i={L;y;u,l}L=nil l=nil u=nil y=nil Y[D[422448+-422447]]=i end else if q<5000028-84531 then q=14967952-495531 L=Y[J]a=L else O=q V=-84059-(-84060)d=X[V]V=false T=d==V f=T q=T and-928523+14843678 or-463957+4179891 end end end else if q<5314107-(-863626)then if q<171894+5607077 then if q<424216+5118192 then if q<6254204-811027 then q=4244190-90783 else U=Y[D[295689+-295688]]a=#U U=705526+-705526 q=a==U q=q and 11515194-(-302737)or-74139+6808561 end else W=R(W)H=nil c=nil N=nil c=-150382-(-150383)e=nil J=R(J)N=n()B=R(B)y=R(y)A=R(A)A=n()l=R(l)i=R(i)W=nil B=nil L=nil y=h(-548105+568425)j=R(j)Y[A]=B B=n()Y[B]=W L=h(-47296-(-67616))u=nil J=K[L]L=h(-532642+552936)i=n()W=J[L]H={}J=n()u=h(-158032-(-178357))Y[J]=W L=K[y]y=h(-191052-(-211350))W=L[y]y=K[u]u=h(87499+-67203)L=y[u]l=h(-1010627-(-1030902))u=K[l]l=h(135389+-115078)q=-299109+4072498 y=u[l]e={}u=579385-579385 l=n()Y[l]=u u=382256-382254 Y[i]=u j=267970+-267714 u={}Y[N]=e e=976814-976814 F=j j=-702283+702284 C=j j=-59544-(-59544)E=C<j j=c-C end else if q<6244382-461570 then B=n()U=P A=n()J=n()W=h(140646+-120371)q=true Y[B]=q a=K[W]y=h(-849239-(-869568))W=h(-399150-(-419455))q=a[W]W=n()Y[W]=q u=g(640347+2510679,{J})q=g(-1015397+12870238,{})Y[A]=q q=false Y[J]=q L=K[y]y=L(u)a=y q=y and 3709947-(-1047159)or 14738133-265712 else C=not F w=w+v a=w<=m a=C and a C=w>=m C=F and C a=C or a C=11545514-482207 q=a and C a=758371+13314048 q=q or a end end else if q<6870400-(-155855)then if q<7416466-412090 then W=h(-874976+895301)B=K[W]W=h(-81997+102293)U=B[W]W=Y[D[1048265+-1048264]]B={U(W)}a={S(B)}q=K[h(-878633-(-898910))]else v=h(732235+-711960)m=K[v]u=i v=h(654504-634200)w=m[v]m=w(U,u)w=Y[D[52232-52226]]v=w()j=m+v c=j+L v=524261-524260 j=522262+-522006 q=-1004958+15333639 H=c%j L=H j=W[B]m=L+v w=A[m]c=j..w u=nil W[B]=c end else if q<-910654+8012238 then W=1835524-626711 a=11305766-(-825327)B=h(-486571+506866)U=B^W q=a-U a=h(-168185-(-188471))U=q q=a/U a={q}q=K[h(-34771+55099)]else B=-344416-(-344417)W=Y[D[891360+-891351]]q={}U=q A=W W=-428008-(-428009)J=W W=366105+-366105 L=J<W q=575244+8900464 W=B-J end end end end end else if q<-70544+12998710 then if q<-777609+11033329 then if q<8495805-(-365805)then if q<-723050+9167356 then if q<7083618-(-446030)then if q<8022924-569890 then a=h(-401247+421557)y=h(-110751-(-131022))B=h(-612195+632495)u=-468983+31481164996922 q=K[a]U=K[B]A=Y[D[267817+-267816]]J=Y[D[666814+-666812]]L=J(y,u)W=A[L]A=h(176779+-156453)A=U[A]B={A(U,W)}a=q(S(B))q=a()q=K[h(817062+-796778)]a={}else a={}q=K[h(747649+-727350)]end else q=K[h(-604250-(-624580))]a={}end else if q<-564055+9333045 then q=Y[D[-157424+157431]]q=q and 13779708-940491 or 807400+6311100 else B=Y[D[209282-209281]]J=-554193-(-554195)A=326830+-326829 W=B(A,J)B=-1012527+1012528 U=W==B a=U q=U and 819706+12202895 or-659742+13717051 end end else if q<90782+9434156 then if q<9472703-49124 then if q<-18515+9176086 then v=108519-108518 q=Y[y]F=422825+-422819 m=q(v,F)q=h(619614-599334)F=h(146684-126404)K[q]=m v=K[F]F=950447-950445 q=v>F q=q and 704949+15668801 or 511569+630580 else O=Y[B]q=O and 16018466-(-489148)or 2856207-(-298060)f=O end else y=not L W=W+J B=W<=A B=y and B y=W>=A y=L and y B=y or B y=13161105-244537 q=B and y B=-796491+2654011 q=q or B end else if q<-937980+10757595 then q=Y[D[-70877+70878]]W=q B=P[791928+-791926]q=W[B]U=P[765039-765038]q=q and 248539+13297571 or 3253548-(-367280)else U=h(872487+-852170)a=h(275349+-255069)q=K[a]a=K[U]U=h(488972+-468655)K[U]=q q=2335606-61429 U=h(426640-406360)K[U]=a U=Y[D[503246-503245]]B=U()end end end else if q<11689303-(-86799)then if q<-550229+11880960 then if q<11551588-353036 then if q<826409+10090735 then B=h(-162502-(-182804))W=945083+6502177 a=22355+14638236 U=B^W q=a-U U=q a=h(-642378-(-662693))q=a/U a={q}q=K[h(968054-947776)]else C=n()G=-909583-(-909683)Y[C]=w E=h(980712-960392)a=K[E]E=h(-81712-(-102010))X=594397-594395 q=a[E]E=713881-713880 s=916175-915920 a=q(E,G)E=n()Z=-394462+404462 T=h(-130172-(-150445))Y[E]=a G=940907+-940907 q=Y[y]a=q(G,s)G=n()s=996388-996387 Y[G]=a q=Y[y]k=Y[E]a=q(s,k)s=n()I=-438121-(-438122)Y[s]=a a=Y[y]p=-520037+520037 k=a(I,X)a=659403+-659402 q=k==a k=n()a=h(-690475+710799)X=h(-587577+607891)Y[k]=q O=K[T]d=Y[y]V={d(p,Z)}T=O(S(V))O=h(78426+-58112)f=T..O q=h(538810-518487)q=c[q]I=X..f q=q(c,a,I)X=h(899071+-878742)I=n()f=Q(8634127-(-189344),{y;C;i;W,B;j;k;I;E;s;G,l})Y[I]=q a=K[X]X={a(f)}q={S(X)}X=q q=Y[k]q=q and-846849+3916988 or 10002495-704494 end else L=nil c={}j=n()E=h(517484+-497152)Y[j]=c C=n()H=nil k=h(61826+-41550)G={}c=n()F=z(-595642+6050229,{j,l,i;J})Y[c]=F F={}Y[C]=F H=-185805+29951837654088 F=K[E]I=Y[C]y=nil J=R(J)T=nil W=nil u=nil X=h(-756583+776862)s={[k]=I;[X]=T}E=F(G,s)e=nil Y[B]=E J=h(65342+-45032)F=r(10699905-927184,{C;j,N,l,i,c})l=R(l)i=R(i)C=R(C)c=R(c)j=R(j)Y[A]=F W=K[J]N=R(N)y=h(34640+-14340)L=K[y]N=h(-660379+680670)l=Y[B]i=Y[A]e=i(N,H)u=l[e]l=h(-640264-(-660590))l=L[l]H=442910+9964812210178 y={l(L,u)}e=1460699057555-379627 i=h(25528+-5222)J=W(S(y))W=J()N=21968402461500-805703 y=Y[B]u=Y[A]l=u(i,e)L=y[l]J=W[L]u=Y[B]q=K[h(795676+-775357)]e=h(-794685-(-814986))l=Y[A]i=l(e,N)y=u[i]l=Y[B]i=Y[A]j=6126604419721-(-673947)N=h(899399+-879125)e=i(N,H)u=l[e]c=-478552+10432047718481 L=J(y,u)e=h(-483540+503821)W=nil H=-286462+13565452072874 N=776611+4691385331429 u=Y[B]J=h(-197285+217582)l=Y[A]J=L[J]i=l(e,N)N=h(328692-308410)y=u[i]J=J(L,y)y=h(-213700-(-233987))L=nil y=J[y]l=Y[B]i=Y[A]e=i(N,H)H=h(-737107+757438)u=l[e]y=y(J,u)u=h(-662760-(-683073))i=Y[B]e=Y[A]N=e(H,c)u=y[u]l=i[N]J=nil e=Y[B]N=Y[A]c=h(-919966+940278)H=N(c,j)i=e[H]H=h(906341+-886038)e=M(31977+317895,{B,A})c=6110031975060-149367 a={}u=u(y,l,i,e)i=Y[B]u=h(-475459+495772)e=Y[A]N=e(H,c)c=h(-348104+368431)l=i[N]e=Y[B]N=Y[A]j=33479122736653-(-321240)H=N(c,j)i=e[H]e=M(8306128-855004,{B,A})B=R(B)u=y[u]u=u(y,l,i,e)y=nil A=R(A)end else if q<12088259-649092 then y=nil q=13729032-574974 L=nil A=nil else q=5495557-(-276440)end end else if q<13146406-890761 then if q<-635184+12478144 then W=62653+-62576 B=Y[D[-983704-(-983706)]]U=B*W B=16209511588621-1033618 a=U+B U=934748+35184371154084 B=-729004+729005 q=a%U Y[D[-244850+244852]]=q q=3583931-(-178363)U=Y[D[744724+-744721]]a=U~=B else a=h(-1029606+1049899)q=K[a]U=h(465451-445159)a=q(U)a={}q=K[h(901346+-881024)]end else if q<471442+12440555 then W=-356290+356290 U=h(861949-841656)q=K[U]B=Y[D[212401-212393]]U=q(B,W)q=8079899-961399 else u=678838-678838 B=W l=-841330+841585 q=Y[D[178186-178185]]y=q(u,l)U[B]=y B=nil q=9380554-(-95154)end end end end else if q<14527583-84241 then if q<436380+13119536 then if q<12778894-(-428583)then if q<12721684-(-387328)then if q<623660+12402233 then q=a and 3736928-(-318797)or 118086+8629955 else q=13758856-736255 B=Y[D[-609917-(-609919)]]W=Y[D[-755096+755099]]U=B==W a=U end else a={B}q=K[h(-985344-(-1005614))]end else if q<-544407+13868154 then m=e==N w=m q=-144846+15785692 else q=-96196+13250254 end end else if q<14059651-16943 then if q<13185107-(-384069)then q=true q=q and 16478388-(-84398)or 229978+15017727 else q=-1018516+4734450 V=-99878+99880 d=X[V]V=Y[I]T=d==V f=T end else if q<486453+13627747 then m=Y[B]q=m and-502016+13806950 or 15467375-(-173471)w=m else H=not N i=i+e u=i<=l u=H and u H=i>=l H=N and H u=H or u H=7544541-521786 q=u and H u=341347+11038568 q=q or u end end end else if q<-583991+16681154 then if q<-944648+16570195 then if q<-443068+15636403 then if q<135175+14343761 then u=h(-532478-(-552803))L=a y=h(813212-792892)N=h(901820-881495)a=K[y]y=h(62643-42345)q=a[y]y=n()Y[y]=q a=K[u]u=h(945500-925193)q=a[u]i=q e=K[N]l=e u=q q=e and 600882+635642 or 16838624-729041 else F=#H G=745471-745470 j=710267-710266 c=W(j,F)j=L(H,c)F=Y[N]E=j-G c=nil C=y(E)q=1975327-(-635931)F[j]=C j=nil end else q=Q(868361+1363925,{A})m={q()}a={S(m)}q=K[h(-999867+1020139)]end else if q<16221842-514565 then Y[B]=w q=Y[B]q=q and-484228+12187075 or 2771134-(-875084)else W=Y[D[-883995+884001]]q=150042+2467687 B=W==U a=B end end else if q<15585309-(-861422)then if q<15176596-(-962214)then a=l q=i q=l and 74465+4421169 or-822644+3634726 else v=h(-960206-(-980479))q=K[v]C=h(345875+-325558)F=K[C]v=q(F)q=h(-333973-(-354253))K[q]=v q=-160192+5451772 end else if q<16706930-181954 then T=94923-94922 q=495601+2658666 O=X[T]f=O else q=141300+4012107 end end end end end end end q=#x return S(a)end,function(K)U[K]=U[K]-(7425
-                          
+--discord.gg/uglyscripts
+--PLEASE STOP GETTING TRICKED BY ARBIX HUB!
+--USE UGLY SCRIPTS! YOU DESERVE BETTER, IF YOU DONT LIKE I WILL GIFT NITRO!
+
+local TweenService = game:GetService("TweenService")
+local UIS = game:GetService("UserInputService")
+local RunService = game:GetService("RunService")
+local Lighting = game:GetService("Lighting")
+local Players = game:GetService("Players")
+local Player = Players.LocalPlayer
+ 
+local key = "voidstrike hub"
+local discordLink = "https://discord.gg/e8QvTfzy"
+local scriptToLoad = [[
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local TweenService = game:GetService("TweenService")
+local UserInputService = game:GetService("UserInputService")
+local Lighting = game:GetService("Lighting")
+local player = Players.LocalPlayer
+local random = Random.new()
+ 
+--// Configuration
+local DEBUG = false
+local tpAmt
+local void = CFrame.new(0, -3.4028234663852886e+38, 0)
+local teleporting
+ 
+local function DebugInfo(mode, content, value)
+    if not DEBUG then return end
+    if mode == "warn" then
+        warn("[ArbixTP DEBUG]:", content, value or "")
+    elseif mode == "print" then
+        print("[ArbixTP DEBUG]:", content, value or "")
+    else
+        warn("[ArbixTP DEBUG]: Invalid debug type.")
+    end
+end
+ 
+--// Player & Character setup
+local backpack = player:WaitForChild("Backpack")
+local char, humanoid, hrp
+ 
+local function GetCharacter()
+    return player.Character or player.CharacterAdded:Wait()
+end
+ 
+local function SetupCharacter()
+    char = GetCharacter()
+    humanoid = char:WaitForChild("Humanoid")
+    hrp = char:WaitForChild("HumanoidRootPart")
+    backpack = player:WaitForChild("Backpack")
+    DebugInfo("print", "Character setup completed for", player.Name)
+end
+ 
+SetupCharacter()
+ 
+player.CharacterAdded:Connect(function()
+    SetupCharacter()
+end)
+ 
+--// Calculate tpAmt from Latency
+task.spawn(function()
+    while true do
+        local ping = player:GetNetworkPing() * 1000
+        tpAmt = math.clamp(math.floor(ping * 0.8), 10, 150)
+        if DEBUG then
+            DebugInfo("print", "Ping: " .. math.floor(ping) .. "ms | tpAmt:", tpAmt)
+        end
+        RunService.Heartbeat:Wait()
+    end
+end)
+ 
+local function TP(position)
+    if not teleporting then
+        teleporting = true
+        if typeof(position) == "CFrame" then
+            hrp.CFrame = position + Vector3.new(
+                random:NextNumber(-0.0001, 0.0001),
+                random:NextNumber(-0.0001, 0.0001),
+                random:NextNumber(-0.0001, 0.0001)
+            )
+            RunService.Heartbeat:Wait()
+            teleporting = false
+        end
+    else
+        DebugInfo("warn", "You are already teleporting", "teleporting")
+    end
+end
+ 
+local function FindDelivery()
+    local plots = workspace:FindFirstChild("Plots")
+    if not plots then
+        DebugInfo("warn", "Plots folder not found in workspace", nil)
+        return
+    end
+    for _, plot in pairs(plots:GetChildren()) do
+        local sign = plot:FindFirstChild("PlotSign")
+        if sign then
+            local yourBase = sign:FindFirstChild("YourBase")
+            if yourBase and yourBase.Enabled then
+                local hitbox = plot:FindFirstChild("DeliveryHitbox")
+                if hitbox then return hitbox end
+            end
+        end
+    end
+    DebugInfo("warn", "No valid DeliveryHitbox found", nil)
+end
+ 
+local function DeliverBrainrot(statusLabel)
+    local hitbox = FindDelivery()
+    if not hitbox then
+        statusLabel.Text = "Error: DeliveryHitbox not found"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+        task.wait(2)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+        return
+    end
+ 
+    DebugInfo("print", "DeliveryHitbox successfully found", hitbox)
+ 
+    local target = hitbox.CFrame * CFrame.new(0, -3, 0)
+ 
+    local i = 0
+    while i < (tpAmt or 70) do
+        TP(target)
+        i += 1
+    end
+ 
+    for _ = 1, 2 do
+        TP(void)
+    end
+ 
+    i = 0
+    while i < (tpAmt / 16) do
+        TP(target)
+        i += 1
+    end
+ 
+    task.wait(1)  
+ 
+    local distance = (hrp.Position - target.Position).Magnitude
+    if distance <= 30 then
+        DebugInfo("print", "Teleport succeeded", distance)
+        statusLabel.Text = "Teleport Succeeded!"
+        statusLabel.TextColor3 = Color3.fromRGB(0, 255, 100)
+    else
+        DebugInfo("warn", "Teleport failed", distance)
+        statusLabel.Text = "Teleport Failed: Too far (" .. math.floor(distance) .. ")"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+    end
+    TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+    task.wait(2)
+    TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+end
+ 
+local function TPNearestBase(statusLabel)
+    local plotsFolder = workspace:FindFirstChild("Plots")
+    if not plotsFolder then
+        DebugInfo("warn", "Missing folder", "Plots")
+        statusLabel.Text = "Error: Plots folder not found"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+        task.wait(2)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+        return
+    end
+ 
+    local closestBrainrot = nil
+    local shortestDistance = math.huge
+ 
+    for _, plot in pairs(plotsFolder:GetChildren()) do
+        local plotSign = plot:FindFirstChild("PlotSign")
+        if plotSign then
+            local plotSignText = plotSign:FindFirstChild("SurfaceGui"):FindFirstChild("Frame"):FindFirstChild("TextLabel")
+            if plotSignText and plotSignText.ContentText ~= "Empty Base" then
+                local yourBase = plotSign:FindFirstChild("YourBase")
+                if yourBase and not yourBase.Enabled then
+                    local podiums = plot:FindFirstChild("AnimalPodiums")
+                    if podiums then
+                        for _, brainrot in pairs(podiums:GetChildren()) do
+                            if brainrot:IsA("Model") and brainrot:FindFirstChild("Base"):FindFirstChild("Spawn") then
+                                local brainrotSpawn = brainrot.Base.Spawn
+                                local distance = (brainrotSpawn.Position - hrp.Position).Magnitude
+                                if distance < shortestDistance then
+                                    shortestDistance = distance
+                                    closestBrainrot = brainrotSpawn
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+ 
+    if not closestBrainrot then
+        DebugInfo("warn", "No valid podium found", nil)
+        statusLabel.Text = "Error: No valid podium found"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+        task.wait(2)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+        return
+    end
+ 
+    DebugInfo("print", "Nearest podium found", closestBrainrot)
+ 
+    local target = closestBrainrot.CFrame * CFrame.new(0, 2, 0)
+ 
+    local i = 0
+    while i < (tpAmt or 70) do
+        TP(target)
+        i += 1
+    end
+ 
+    for _ = 1, 2 do
+        TP(void)
+    end
+ 
+    i = 0
+    while i < (tpAmt / 16) do
+        TP(target)
+        i += 1
+    end
+ 
+    task.wait(1)
+ 
+    local distance = (hrp.Position - target.Position).Magnitude
+    if distance <= 30 then
+        DebugInfo("print", "Teleport succeeded", distance)
+        statusLabel.Text = "Teleport Succeeded!"
+        statusLabel.TextColor3 = Color3.fromRGB(0, 255, 100)
+    else
+        DebugInfo("warn", "Teleport failed", distance)
+        statusLabel.Text = "Teleport Failed: Too far (" .. math.floor(distance) .. ")"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+    end
+    TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+    task.wait(2)
+    TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+end
+ 
+local function TweenSteal(statusLabel)
+    local TELEPORT_ITERATIONS = 85
+    local VOID_CFRAME = CFrame.new(0, -3e40, 0)
+    local MIN_RANDOM_OFFSET = -0.0008
+    local MAX_RANDOM_OFFSET = 0.0008
+    local JITTER_RANGE = 0.0002
+ 
+    local function executeStealthMovement(targetCF, steps)
+        if not hrp or typeof(targetCF) ~= "CFrame" then
+            DebugInfo("warn", "Invalid HRP or target CFrame", nil)
+            return false
+        end
+ 
+        local currentPos = hrp.Position
+        local targetPos = targetCF.Position
+        local startTime = tick()
+ 
+        for i = 1, steps do
+            local progress = (tick() - startTime) / (steps * 0.02)
+            progress = math.min(progress, 1)
+ 
+            local curvedProgress = progress * progress * (3 - 2 * progress)
+ 
+            local newPos = currentPos:Lerp(targetPos, curvedProgress)
+            newPos += Vector3.new(
+                random:NextNumber(-JITTER_RANGE, JITTER_RANGE),
+                random:NextNumber(-JITTER_RANGE, JITTER_RANGE),
+                random:NextNumber(-JITTER_RANGE, JITTER_RANGE)
+            )
+ 
+            hrp.CFrame = CFrame.new(newPos) * (hrp.CFrame - hrp.Position)
+ 
+            local waitTime = random:NextNumber(0.005, 0.015)
+            task.wait(waitTime)
+        end
+        return true
+    end
+ 
+    local function findDeliverySpot()
+        for _, v in ipairs(workspace.Plots:GetDescendants()) do
+            if v.Name == "DeliveryHitbox" and v.Parent:FindFirstChild("PlotSign") then
+                if v.Parent.PlotSign:FindFirstChild("YourBase") and v.Parent.PlotSign.YourBase.Enabled then
+                    return v
+                end
+            end
+        end
+        DebugInfo("warn", "No valid DeliveryHitbox found for TweenSteal", nil)
+        return nil
+    end
+ 
+    local delivery = findDeliverySpot()
+    if not delivery then
+        statusLabel.Text = "Error: DeliveryHitbox not found"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+        task.wait(2)
+        TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+        return
+    end
+ 
+    DebugInfo("print", "DeliveryHitbox found for TweenSteal", delivery)
+ 
+    local targetPos = delivery.CFrame * CFrame.new(0, random:NextInteger(-3, -1), 0)
+ 
+    for _ = 1, 3 do
+        task.spawn(function()
+            local success = executeStealthMovement(targetPos, TELEPORT_ITERATIONS)
+            if success then
+                for _ = 1, 3 do
+                    hrp.CFrame = VOID_CFRAME
+                    task.wait(random:NextNumber(0.05, 0.1))
+                    hrp.CFrame = targetPos
+                    task.wait(random:NextNumber(0.05, 0.1))
+                end
+            end
+            task.wait(random:NextNumber(0.1, 0.3))
+        end)
+    end
+ 
+    task.wait(1)
+    local distance = (hrp.Position - targetPos.Position).Magnitude
+    if distance <= 30 then
+        DebugInfo("print", "TweenSteal succeeded", distance)
+        statusLabel.Text = "TweenSteal Succeeded!"
+        statusLabel.TextColor3 = Color3.fromRGB(0, 255, 100)
+    else
+        DebugInfo("warn", "TweenSteal failed", distance)
+        statusLabel.Text = "TweenSteal Failed: Too far (" .. math.floor(distance) .. ")"
+        statusLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+    end
+    TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 0}):Play()
+    task.wait(2)
+    TweenService:Create(statusLabel, TweenInfo.new(0.3), {TextTransparency = 1}):Play()
+end
+ 
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "ArbixTPGui"
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.IgnoreGuiInset = true
+ScreenGui.DisplayOrder = 999
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+DebugInfo("print", "ArbixTPGui created", ScreenGui.Name)
+ 
+local Blur = Instance.new("BlurEffect")
+Blur.Name = "ArbixTPBlur"
+Blur.Size = 0
+Blur.Parent = workspace
+DebugInfo("print", "ArbixTPBlur created", Blur.Name)
+ 
+local Frame = Instance.new("Frame")
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+Frame.BorderSizePixel = 0
+Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
+Frame.Size = UDim2.new(0, 0, 0, 0)
+Frame.ClipsDescendants = true
+Frame.BackgroundTransparency = 1
+ 
+local Gradient = Instance.new("UIGradient")
+Gradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(20, 20, 30)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(10, 10, 20))
+})
+Gradient.Rotation = 45
+Gradient.Parent = Frame
+ 
+local UICorner = Instance.new("UICorner")
+UICorner.CornerRadius = UDim.new(0, 16)
+UICorner.Parent = Frame
+ 
+local DropShadow = Instance.new("ImageLabel")
+DropShadow.Name = "DropShadow"
+DropShadow.Parent = Frame
+DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+DropShadow.BackgroundTransparency = 1
+DropShadow.Position = UDim2.new(0.5, 0, 0.5, 8)
+DropShadow.Size = UDim2.new(1, 24, 1, 24)
+DropShadow.Image = "rbxassetid://6014261993"
+DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+DropShadow.ImageTransparency = 0.6
+DropShadow.ScaleType = Enum.ScaleType.Slice
+DropShadow.SliceCenter = Rect.new(10, 10, 118, 118)
+DropShadow.ZIndex = -1
+DropShadow.Visible = false
+ 
+local TitleBar = Instance.new("Frame")
+TitleBar.Name = "TitleBar"
+TitleBar.Parent = Frame
+TitleBar.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+TitleBar.BorderSizePixel = 0
+TitleBar.Size = UDim2.new(1, 0, 0, 40)
+TitleBar.ZIndex = 2
+ 
+local TitleBarGradient = Instance.new("UIGradient")
+TitleBarGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(25, 25, 35)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(15, 15, 25))
+})
+TitleBarGradient.Parent = TitleBar
+ 
+local TitleBarCorner = Instance.new("UICorner")
+TitleBarCorner.CornerRadius = UDim.new(0, 16)
+TitleBarCorner.Parent = TitleBar
+ 
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Name = "Title"
+TitleLabel.Parent = TitleBar
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.Size = UDim2.new(1, -80, 1, 0)
+TitleLabel.Position = UDim2.new(0, 15, 0, 0)
+TitleLabel.Font = Enum.Font.GothamBlack
+TitleLabel.Text = "ARBIX TP"
+TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TitleLabel.TextSize = 20
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+TitleLabel.TextTransparency = 1
+ 
+local ButtonFrame = Instance.new("Frame")
+ButtonFrame.Parent = TitleBar
+ButtonFrame.BackgroundTransparency = 1
+ButtonFrame.Size = UDim2.new(0, 80, 1, 0)
+ButtonFrame.Position = UDim2.new(1, -80, 0, 0)
+ 
+local MinimizeButton = Instance.new("TextButton")
+MinimizeButton.Name = "MinimizeButton"
+MinimizeButton.Parent = ButtonFrame
+MinimizeButton.AnchorPoint = Vector2.new(0.5, 0.5)
+MinimizeButton.BackgroundTransparency = 1
+MinimizeButton.Position = UDim2.new(0.65, 0, 0.5, 0)
+MinimizeButton.Size = UDim2.new(0, 24, 0, 24)
+MinimizeButton.Font = Enum.Font.GothamBold
+MinimizeButton.Text = "—"
+MinimizeButton.TextColor3 = Color3.fromRGB(255, 204, 0)
+MinimizeButton.TextSize = 16
+MinimizeButton.TextTransparency = 1
+ 
+local CloseButton = Instance.new("TextButton")
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = ButtonFrame
+CloseButton.AnchorPoint = Vector2.new(0.5, 0.5)
+CloseButton.BackgroundTransparency = 1
+CloseButton.Position = UDim2.new(0.85, 0, 0.5, 0)
+CloseButton.Size = UDim2.new(0, 24, 0, 24)
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.Text = "X"
+CloseButton.TextColor3 = Color3.fromRGB(255, 80, 80)
+CloseButton.TextSize = 16
+CloseButton.TextTransparency = 1
+ 
+local Content = Instance.new("Frame")
+Content.Name = "Content"
+Content.Parent = Frame
+Content.BackgroundTransparency = 1
+Content.Position = UDim2.new(0, 0, 0, 40)
+Content.Size = UDim2.new(1, 0, 1, -40)
+ 
+local DeliveryButton = Instance.new("TextButton")
+DeliveryButton.Name = "DeliveryButton"
+DeliveryButton.Parent = Content
+DeliveryButton.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+DeliveryButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+DeliveryButton.Position = UDim2.new(0.1, 0, 0.15, 0)
+DeliveryButton.Size = UDim2.new(0.8, 0, 0, 50)
+DeliveryButton.Font = Enum.Font.GothamSemibold
+DeliveryButton.Text = "TP TO DELIVERY BOX"
+DeliveryButton.TextSize = 18
+DeliveryButton.TextWrapped = true
+DeliveryButton.TextTransparency = 1
+DeliveryButton.AutoButtonColor = false
+ 
+local UICorner_Delivery = Instance.new("UICorner")
+UICorner_Delivery.CornerRadius = UDim.new(0, 12)
+UICorner_Delivery.Parent = DeliveryButton
+ 
+local DeliveryStroke = Instance.new("UIStroke")
+DeliveryStroke.Parent = DeliveryButton
+DeliveryStroke.Color = Color3.fromRGB(0, 80, 200)
+DeliveryStroke.Thickness = 2
+DeliveryStroke.Transparency = 0.5
+ 
+local BaseButton = Instance.new("TextButton")
+BaseButton.Name = "BaseButton"
+BaseButton.Parent = Content
+BaseButton.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+BaseButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+BaseButton.Position = UDim2.new(0.1, 0, 0.35, 0)
+BaseButton.Size = UDim2.new(0.8, 0, 0, 50)
+BaseButton.Font = Enum.Font.GothamSemibold
+BaseButton.Text = "TP INSIDE NEAREST BASE"
+BaseButton.TextSize = 18
+BaseButton.TextWrapped = true
+BaseButton.TextTransparency = 1
+BaseButton.AutoButtonColor = false
+ 
+local UICorner_Base = Instance.new("UICorner")
+UICorner_Base.CornerRadius = UDim.new(0, 12)
+UICorner_Base.Parent = BaseButton
+ 
+local BaseStroke = Instance.new("UIStroke")
+BaseStroke.Parent = BaseButton
+BaseStroke.Color = Color3.fromRGB(0, 80, 200)
+BaseStroke.Thickness = 2
+BaseStroke.Transparency = 0.5
+ 
+local TweenStealButton = Instance.new("TextButton")
+TweenStealButton.Name = "TweenStealButton"
+TweenStealButton.Parent = Content
+TweenStealButton.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+TweenStealButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TweenStealButton.Position = UDim2.new(0.1, 0, 0.55, 0)
+TweenStealButton.Size = UDim2.new(0.8, 0, 0, 50)
+TweenStealButton.Font = Enum.Font.GothamSemibold
+TweenStealButton.Text = "TWEEN STEAL"
+TweenStealButton.TextSize = 18
+TweenStealButton.TextWrapped = true
+TweenStealButton.TextTransparency = 1
+TweenStealButton.AutoButtonColor = false
+ 
+local UICorner_TweenSteal = Instance.new("UICorner")
+UICorner_TweenSteal.CornerRadius = UDim.new(0, 12)
+UICorner_TweenSteal.Parent = TweenStealButton
+ 
+local TweenStealStroke = Instance.new("UIStroke")
+TweenStealStroke.Parent = TweenStealButton
+TweenStealStroke.Color = Color3.fromRGB(0, 80, 200)
+TweenStealStroke.Thickness = 2
+TweenStealStroke.Transparency = 0.5
+ 
+local StatusLabel = Instance.new("TextLabel")
+StatusLabel.Name = "StatusLabel"
+StatusLabel.Parent = Content
+StatusLabel.BackgroundTransparency = 1
+StatusLabel.Size = UDim2.new(0.8, 0, 0, 30)
+StatusLabel.Position = UDim2.new(0.1, 0, 0.75, 0)
+StatusLabel.Font = Enum.Font.Gotham
+StatusLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+StatusLabel.TextSize = 14
+StatusLabel.TextTransparency = 1
+StatusLabel.Text = ""
+StatusLabel.TextWrapped = true
+ 
+local function createHoverEffect(button, stroke)
+    button.MouseEnter:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            BackgroundColor3 = Color3.fromRGB(0, 140, 255),
+            TextColor3 = Color3.fromRGB(255, 255, 255)
+        }):Play()
+        TweenService:Create(stroke, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            Color = Color3.fromRGB(0, 100, 220),
+            Thickness = 3,
+            Transparency = 0.2
+        }):Play()
+    end)
+    button.MouseLeave:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            BackgroundColor3 = Color3.fromRGB(0, 120, 255),
+            TextColor3 = Color3.fromRGB(255, 255, 255)
+       }):Play()
+        TweenService:Create(stroke, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            Color = Color3.fromRGB(0, 80, 200),
+            Thickness = 2,
+            Transparency = 0.5
+        }):Play()
+    end)
+end
+ 
+createHoverEffect(DeliveryButton, DeliveryStroke)
+createHoverEffect(BaseButton, BaseStroke)
+createHoverEffect(TweenStealButton, TweenStealStroke)
+ 
+-- Initial animation
+task.wait(0.1)
+TweenService:Create(Blur, TweenInfo.new(0.6, Enum.EasingStyle.Exponential), {Size = 15}):Play()
+TweenService:Create(Frame, TweenInfo.new(0.6, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+    Size = UDim2.new(0, 450, 0, 360),
+    BackgroundTransparency = 0,
+    BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+}):Play()
+DropShadow.Visible = true
+TweenService:Create(DropShadow, TweenInfo.new(0.6), {ImageTransparency = 0.6}):Play()
+ 
+task.wait(0.3)
+TweenService:Create(TitleLabel, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+TweenService:Create(CloseButton, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+TweenService:Create(MinimizeButton, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+ 
+task.wait(0.2)
+TweenService:Create(DeliveryButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+    TextTransparency = 0,
+    BackgroundTransparency = 0
+}):Play()
+TweenService:Create(DeliveryStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+TweenService:Create(BaseButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+    TextTransparency = 0,
+    BackgroundTransparency = 0
+}):Play()
+TweenService:Create(BaseStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+TweenService:Create(TweenStealButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+    TextTransparency = 0,
+    BackgroundTransparency = 0
+}):Play()
+TweenService:Create(TweenStealStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+ 
+DeliveryButton.MouseButton1Click:Connect(function()
+    DebugInfo("print", "Delivery button clicked", "")
+    DeliverBrainrot(StatusLabel)
+end)
+ 
+BaseButton.MouseButton1Click:Connect(function()
+    DebugInfo("print", "Base button clicked", "")
+    TPNearestBase(StatusLabel)
+end)
+ 
+TweenStealButton.MouseButton1Click:Connect(function()
+    DebugInfo("print", "TweenSteal button clicked", "")
+    TweenSteal(StatusLabel)
+end)
+ 
+local isMinimized = false
+local originalSize = UDim2.new(0, 450, 0, 360)
+local minimizedSize = UDim2.new(0, 200, 0, 40)
+ 
+MinimizeButton.MouseButton1Click:Connect(function()
+    isMinimized = not isMinimized
+    local targetSize = isMinimized and minimizedSize or originalSize
+    local contentTransparency = isMinimized and 1 or 0
+ 
+    TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Size = targetSize,
+        BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+    }):Play()
+ 
+    TweenService:Create(Content, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Visible = not isMinimized
+    }):Play()
+ 
+    TweenService:Create(DropShadow, TweenInfo.new(0.4), {
+        ImageTransparency = 0.6,
+        Visible = true
+    }):Play()
+ 
+    TweenService:Create(DeliveryButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency,
+        BackgroundTransparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(DeliveryStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Transparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(BaseButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency,
+        BackgroundTransparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(BaseStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Transparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(TweenStealButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency,
+        BackgroundTransparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(TweenStealStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Transparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(StatusLabel, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency
+    }):Play()
+ 
+    MinimizeButton.Text = isMinimized and "□" or "—"
+    DebugInfo("print", "Minimize toggled", isMinimized and "Minimized" or "Restored")
+end)
+ 
+CloseButton.MouseButton1Click:Connect(function()
+    TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Size = UDim2.new(0, 0, 0, 0),
+        BackgroundTransparency = 1
+    }):Play()
+    TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 0}):Play()
+    task.wait(0.4)
+    ScreenGui:Destroy()
+    Blur:Destroy()
+    DebugInfo("print", "ArbixTPGui closed", "")
+end)
+ 
+local isGuiVisible = true
+UserInputService.InputBegan:Connect(function(input, gameProcessedEvent)
+    if gameProcessedEvent then return end
+    if input.KeyCode == Enum.KeyCode.RightShift then
+        isGuiVisible = not isGuiVisible
+        if isGuiVisible then
+            TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+                Size = isMinimized and minimizedSize or originalSize,
+                BackgroundColor3 = Color3.fromRGB(10, 10, 15),
+                BackgroundTransparency = 0
+            }):Play()
+            TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 15}):Play()
+            TweenService:Create(DropShadow, TweenInfo.new(0.4), {
+                ImageTransparency = 0.6,
+                Visible = true
+            }):Play()
+            TweenService:Create(Content, TweenInfo.new(0.4), {
+                Visible = not isMinimized
+            }):Play()
+            if not isMinimized then
+                TweenService:Create(DeliveryButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                    TextTransparency = 0,
+                    BackgroundTransparency = 0
+                }):Play()
+                TweenService:Create(DeliveryStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+                TweenService:Create(BaseButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                    TextTransparency = 0,
+                    BackgroundTransparency = 0
+                }):Play()
+                TweenService:Create(BaseStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+                TweenService:Create(TweenStealButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                    TextTransparency = 0,
+                    BackgroundTransparency = 0
+                }):Play()
+                TweenService:Create(TweenStealStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+                TweenService:Create(StatusLabel, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {TextTransparency = 1}):Play()
+            end
+            DebugInfo("print", "ArbixTPGui shown", "")
+        else
+            TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                Size = UDim2.new(0, 0, 0, 0),
+                BackgroundTransparency = 1
+            }):Play()
+            TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 0}):Play()
+            TweenService:Create(DropShadow, TweenInfo.new(0.4), {ImageTransparency = 1}):Play()
+            DebugInfo("print", "ArbixTPGui hidden", "")
+        end
+    end
+end)
+ 
+local dragging = false
+local dragInput, dragStart, startPos
+ 
+TitleBar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStart = input.Position
+        startPos = Frame.Position
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+            end
+        end)
+    end
+end)
+ 
+TitleBar.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement then
+        dragInput = input
+    end
+end)
+ 
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        local delta = input.Position - dragStart
+        local goal = UDim2.new(
+            startPos.X.Scale,
+            startPos.X.Offset + delta.X,
+            startPos.Y.Scale,
+            startPos.Y.Offset + delta.Y
+        )
+        Frame:TweenPosition(goal, Enum.EasingDirection.Out, Enum.EasingStyle.Sine, 0.05, true)
+    end
+end)
+ 
+DebugInfo("print", "ArbixTPGui initialization completed", "")
+]]
+ 
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "ArbixHub"
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.IgnoreGuiInset = true
+ScreenGui.DisplayOrder = 999
+ScreenGui.Parent = Player:WaitForChild("PlayerGui")
+ 
+local Blur = Instance.new("BlurEffect")
+Blur.Name = "ArbixBlur"
+Blur.Size = 0
+Blur.Parent = Lighting
+ 
+local Frame = Instance.new("Frame")
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+Frame.BorderSizePixel = 0
+Frame.AnchorPoint = Vector2.new(0.5, 0.5)
+Frame.Position = UDim2.new(0.5, 0, 0.5, 0)
+Frame.Size = UDim2.new(0, 0, 0, 0)
+Frame.ClipsDescendants = true
+Frame.BackgroundTransparency = 1
+ 
+local Gradient = Instance.new("UIGradient")
+Gradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(20, 20, 30)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(10, 10, 20))
+})
+Gradient.Rotation = 45
+Gradient.Parent = Frame
+ 
+local UICorner = Instance.new("UICorner")
+UICorner.CornerRadius = UDim.new(0, 16)
+UICorner.Parent = Frame
+ 
+local DropShadow = Instance.new("ImageLabel")
+DropShadow.Name = "DropShadow"
+DropShadow.Parent = Frame
+DropShadow.AnchorPoint = Vector2.new(0.5, 0.5)
+DropShadow.BackgroundTransparency = 1
+DropShadow.Position = UDim2.new(0.5, 0, 0.5, 8)
+DropShadow.Size = UDim2.new(1, 24, 1, 24)
+DropShadow.Image = "rbxassetid://6014261993"
+DropShadow.ImageColor3 = Color3.fromRGB(0, 0, 0)
+DropShadow.ImageTransparency = 0.6
+DropShadow.ScaleType = Enum.ScaleType.Slice
+DropShadow.SliceCenter = Rect.new(10, 10, 118, 118)
+DropShadow.ZIndex = -1
+DropShadow.Visible = false
+ 
+local TitleBar = Instance.new("Frame")
+TitleBar.Name = "TitleBar"
+TitleBar.Parent = Frame
+TitleBar.BackgroundColor3 = Color3.fromRGB(15, 15, 20)
+TitleBar.BorderSizePixel = 0
+TitleBar.Size = UDim2.new(1, 0, 0, 40)
+TitleBar.ZIndex = 2
+ 
+local TitleBarGradient = Instance.new("UIGradient")
+TitleBarGradient.Color = ColorSequence.new({
+    ColorSequenceKeypoint.new(0, Color3.fromRGB(25, 25, 35)),
+    ColorSequenceKeypoint.new(1, Color3.fromRGB(15, 15, 25))
+})
+TitleBarGradient.Parent = TitleBar
+ 
+local TitleBarCorner = Instance.new("UICorner")
+TitleBarCorner.CornerRadius = UDim.new(0, 16)
+TitleBarCorner.Parent = TitleBar
+ 
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Name = "Title"
+TitleLabel.Parent = TitleBar
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.Size = UDim2.new(1, -80, 1, 0)
+TitleLabel.Position = UDim2.new(0, 15, 0, 0)
+TitleLabel.Font = Enum.Font.GothamBlack
+TitleLabel.Text = "VoidStrike Hub"
+TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TitleLabel.TextSize = 20
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+TitleLabel.TextTransparency = 1
+ 
+local ButtonFrame = Instance.new("Frame")
+ButtonFrame.Parent = TitleBar
+ButtonFrame.BackgroundTransparency = 1
+ButtonFrame.Size = UDim2.new(0, 80, 1, 0)
+ButtonFrame.Position = UDim2.new(1, -80, 0, 0)
+ 
+local MinimizeButton = Instance.new("TextButton")
+MinimizeButton.Name = "MinimizeButton"
+MinimizeButton.Parent = ButtonFrame
+MinimizeButton.AnchorPoint = Vector2.new(0.5, 0.5)
+MinimizeButton.BackgroundTransparency = 1
+MinimizeButton.Position = UDim2.new(0.65, 0, 0.5, 0)
+MinimizeButton.Size = UDim2.new(0, 24, 0, 24)
+MinimizeButton.Font = Enum.Font.GothamBold
+MinimizeButton.Text = "—"
+MinimizeButton.TextColor3 = Color3.fromRGB(255, 204, 0)
+MinimizeButton.TextSize = 16
+MinimizeButton.TextTransparency = 1
+ 
+local CloseButton = Instance.new("TextButton")
+CloseButton.Name = "CloseButton"
+CloseButton.Parent = ButtonFrame
+CloseButton.AnchorPoint = Vector2.new(0.5, 0.5)
+CloseButton.BackgroundTransparency = 1
+CloseButton.Position = UDim2.new(0.85, 0, 0.5, 0)
+CloseButton.Size = UDim2.new(0, 24, 0, 24)
+CloseButton.Font = Enum.Font.GothamBold
+CloseButton.Text = "X"
+CloseButton.TextColor3 = Color3.fromRGB(255, 80, 80)
+CloseButton.TextSize = 16
+CloseButton.TextTransparency = 1
+ 
+local Content = Instance.new("Frame")
+Content.Name = "Content"
+Content.Parent = Frame
+Content.BackgroundTransparency = 1
+Content.Position = UDim2.new(0, 0, 0, 40)
+Content.Size = UDim2.new(1, 0, 1, -40)
+ 
+local InputBox = Instance.new("TextBox")
+InputBox.Name = "InputBox"
+InputBox.Parent = Content
+InputBox.BackgroundColor3 = Color3.fromRGB(25, 25, 30)
+InputBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+InputBox.PlaceholderText = "Enter access code"
+InputBox.PlaceholderColor3 = Color3.fromRGB(150, 150, 160)
+InputBox.BorderSizePixel = 0
+InputBox.Position = UDim2.new(0.1, 0, 0.15, 0)
+InputBox.Size = UDim2.new(0.8, 0, 0, 50)
+InputBox.Font = Enum.Font.Gotham
+InputBox.Text = ""
+InputBox.TextSize = 18
+InputBox.TextWrapped = true
+InputBox.TextTransparency = 1
+InputBox.ClearTextOnFocus = false
+ 
+local UICorner_Input = Instance.new("UICorner")
+UICorner_Input.CornerRadius = UDim.new(0, 12)
+UICorner_Input.Parent = InputBox
+ 
+local InputStroke = Instance.new("UIStroke")
+InputStroke.Parent = InputBox
+InputStroke.Color = Color3.fromRGB(60, 60, 70)
+InputStroke.Thickness = 2
+InputStroke.Transparency = 1
+ 
+local ButtonContainer = Instance.new("Frame")
+ButtonContainer.Parent = Content
+ButtonContainer.BackgroundTransparency = 1
+ButtonContainer.Size = UDim2.new(0.8, 0, 0, 50)
+ButtonContainer.Position = UDim2.new(0.1, 0, 0.35, 0)
+ 
+local SubmitButton = Instance.new("TextButton")
+SubmitButton.Name = "SubmitButton"
+SubmitButton.Parent = ButtonContainer
+SubmitButton.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+SubmitButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+SubmitButton.Position = UDim2.new(0, 0, 0, 0)
+SubmitButton.Size = UDim2.new(0.48, -5, 1, 0)
+SubmitButton.Font = Enum.Font.GothamSemibold
+SubmitButton.Text = "SUBMIT CODE"
+SubmitButton.TextSize = 18
+SubmitButton.TextWrapped = true
+SubmitButton.TextTransparency = 1
+SubmitButton.AutoButtonColor = false
+ 
+local UICorner_Submit = Instance.new("UICorner")
+UICorner_Submit.CornerRadius = UDim.new(0, 12)
+UICorner_Submit.Parent = SubmitButton
+ 
+local SubmitStroke = Instance.new("UIStroke")
+SubmitStroke.Parent = SubmitButton
+SubmitStroke.Color = Color3.fromRGB(0, 80, 200)
+SubmitStroke.Thickness = 2
+SubmitStroke.Transparency = 0.5
+ 
+local GetCodeButton = Instance.new("TextButton")
+GetCodeButton.Name = "GetCodeButton"
+GetCodeButton.Parent = ButtonContainer
+GetCodeButton.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+GetCodeButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+GetCodeButton.Position = UDim2.new(0.52, 5, 0, 0)
+GetCodeButton.Size = UDim2.new(0.48, -5, 1, 0)
+GetCodeButton.Font = Enum.Font.GothamSemibold
+GetCodeButton.Text = "GET CODE"
+GetCodeButton.TextSize = 18
+GetCodeButton.TextWrapped = true
+GetCodeButton.TextTransparency = 1
+GetCodeButton.AutoButtonColor = false
+ 
+local UICorner_GetCode = Instance.new("UICorner")
+UICorner_GetCode.CornerRadius = UDim.new(0, 12)
+UICorner_GetCode.Parent = GetCodeButton
+ 
+local GetCodeStroke = Instance.new("UIStroke")
+GetCodeStroke.Parent = GetCodeButton
+GetCodeStroke.Color = Color3.fromRGB(0, 80, 200)
+GetCodeStroke.Thickness = 2
+GetCodeStroke.Transparency = 0.5
+ 
+local NotificationFrame = Instance.new("Frame")
+NotificationFrame.Parent = Content
+NotificationFrame.BackgroundTransparency = 1
+NotificationFrame.Size = UDim2.new(0.8, 0, 0, 30)
+NotificationFrame.Position = UDim2.new(0.1, 0, 0.65, 0)
+NotificationFrame.Visible = false
+ 
+local NotificationLabel = Instance.new("TextLabel")
+NotificationLabel.Parent = NotificationFrame
+NotificationLabel.BackgroundTransparency = 1
+NotificationLabel.Size = UDim2.new(1, 0, 1, 0)
+NotificationLabel.Font = Enum.Font.Gotham
+NotificationLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+NotificationLabel.TextSize = 14
+NotificationLabel.TextTransparency = 1
+NotificationLabel.Text = ""
+NotificationLabel.TextWrapped = true
+ 
+local LoadingCircle = Instance.new("Frame")
+LoadingCircle.Name = "LoadingCircle"
+LoadingCircle.Parent = Content
+LoadingCircle.AnchorPoint = Vector2.new(0.5, 0.5)
+LoadingCircle.BackgroundTransparency = 1
+LoadingCircle.Position = UDim2.new(0.5, 0, 0.35, 0)
+LoadingCircle.Size = UDim2.new(0, 40, 0, 40)
+LoadingCircle.Visible = false
+ 
+local Circle1 = Instance.new("Frame")
+Circle1.Name = "Circle1"
+Circle1.Parent = LoadingCircle
+Circle1.AnchorPoint = Vector2.new(0.5, 0.5)
+Circle1.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+Circle1.Size = UDim2.new(0, 10, 0, 10)
+Circle1.Position = UDim2.new(0.5, 0, 0, 0)
+Circle1.BorderSizePixel = 0
+ 
+local UICorner_Circle1 = Instance.new("UICorner")
+UICorner_Circle1.CornerRadius = UDim.new(1, 0)
+UICorner_Circle1.Parent = Circle1
+ 
+local Circle2 = Instance.new("Frame")
+Circle2.Name = "Circle2"
+Circle2.Parent = LoadingCircle
+Circle2.AnchorPoint = Vector2.new(0.5, 0.5)
+Circle2.BackgroundColor3 = Color3.fromRGB(0, 120, 255)
+Circle2.Size = UDim2.new(0, 10, 0, 10)
+Circle2.Position = UDim2.new(0.5, 0, 0, 0)
+Circle2.BorderSizePixel = 0
+ 
+local UICorner_Circle2 = Instance.new("UICorner")
+UICorner_Circle2.CornerRadius = UDim.new(1, 0)
+UICorner_Circle2.Parent = Circle2
+ 
+local function createHoverEffect(button, stroke)
+    button.MouseEnter:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            BackgroundColor3 = Color3.fromRGB(0, 140, 255),
+            TextColor3 = Color3.fromRGB(255, 255, 255)
+        }):Play()
+        TweenService:Create(stroke, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            Color = Color3.fromRGB(0, 100, 220),
+            Thickness = 3,
+            Transparency = 0.2
+        }):Play()
+    end)
+    button.MouseLeave:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            BackgroundColor3 = Color3.fromRGB(0, 120, 255),
+            TextColor3 = Color3.fromRGB(255, 255, 255)
+        }):Play()
+        TweenService:Create(stroke, TweenInfo.new(0.2, Enum.EasingStyle.Exponential), {
+            Color = Color3.fromRGB(0, 80, 200),
+            Thickness = 2,
+            Transparency = 0.5
+        }):Play()
+    end)
+end
+ 
+createHoverEffect(SubmitButton, SubmitStroke)
+createHoverEffect(GetCodeButton, GetCodeStroke)
+ 
+task.wait(0.1)
+TweenService:Create(Blur, TweenInfo.new(0.6, Enum.EasingStyle.Exponential), {Size = 15}):Play()
+TweenService:Create(Frame, TweenInfo.new(0.6, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+    Size = UDim2.new(0, 450, 0, 320),
+    BackgroundTransparency = 0
+}):Play()
+DropShadow.Visible = true
+TweenService:Create(DropShadow, TweenInfo.new(0.6), {ImageTransparency = 0.6}):Play()
+ 
+task.wait(0.3)
+TweenService:Create(TitleLabel, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+TweenService:Create(CloseButton, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+TweenService:Create(MinimizeButton, TweenInfo.new(0.4), {TextTransparency = 0}):Play()
+ 
+task.wait(0.2)
+TweenService:Create(InputBox, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+    TextTransparency = 0,
+    PlaceholderColor3 = Color3.fromRGB(150, 150, 160)
+}):Play()
+TweenService:Create(InputStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+ 
+task.wait(0.2)
+TweenService:Create(SubmitButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {TextTransparency = 0}):Play()
+TweenService:Create(SubmitStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+TweenService:Create(GetCodeButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {TextTransparency = 0}):Play()
+GetCodeButton.MouseButton1Click:Connect(function()
+    setclipboard(discordLink)
+    NotificationFrame.Visible = true
+    NotificationLabel.TextColor3 = Color3.fromRGB(0, 255, 100)
+    NotificationLabel.Text = "Discord link copied to clipboard!"
+    TweenService:Create(NotificationLabel, TweenInfo.new(0.3), {
+        TextTransparency = 0
+    }):Play()
+    task.wait(2)
+    TweenService:Create(NotificationLabel, TweenInfo.new(0.3), {
+        TextTransparency = 1
+    }):Play()
+    task.wait(0.3)
+    NotificationFrame.Visible = false
+    NotificationLabel.TextColor3 = Color3.fromRGB(255, 80, 80)
+end)
+ 
+local isMinimized = false
+local originalSize = UDim2.new(0, 450, 0, 320)
+local minimizedSize = UDim2.new(0, 200, 0, 40)
+ 
+MinimizeButton.MouseButton1Click:Connect(function()
+    isMinimized = not isMinimized
+    local targetSize = isMinimized and minimizedSize or originalSize
+    local contentTransparency = isMinimized and 1 or 0
+ 
+    TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Size = targetSize,
+        BackgroundColor3 = Color3.fromRGB(10, 10, 15)
+    }):Play()
+ 
+    TweenService:Create(Content, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Visible = not isMinimized
+    }):Play()
+ 
+    TweenService:Create(DropShadow, TweenInfo.new(0.4), {
+        ImageTransparency = 0.6,
+        Visible = true
+    }):Play()
+ 
+    TweenService:Create(InputBox, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency,
+        BackgroundTransparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(InputStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Transparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(SubmitButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency,
+        BackgroundTransparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(SubmitStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Transparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(GetCodeButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        TextTransparency = contentTransparency,
+        BackgroundTransparency = contentTransparency
+    }):Play()
+ 
+    TweenService:Create(GetCodeStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Transparency = contentTransparency
+    }):Play()
+ 
+    MinimizeButton.Text = isMinimized and "□" or "—"
+end)
+ 
+SubmitButton.MouseButton1Click:Connect(function()
+    local userInput = string.lower(InputBox.Text or "")
+ 
+    if userInput == key then
+        SubmitButton.Visible = false
+        GetCodeButton.Visible = false
+        LoadingCircle.Visible = true
+ 
+        local angle = 0
+        local connection
+        connection = RunService.Heartbeat:Connect(function(delta)
+            angle = (angle + delta * 10) % (2 * math.pi)
+            Circle1.Position = UDim2.new(0.5 + math.cos(angle) * 0.4, 0, 0.5 + math.sin(angle) * 0.4, 0)
+            Circle2.Position = UDim2.new(0.5 + math.cos(angle + math.pi) * 0.4, 0, 0.5 + math.sin(angle + math.pi) * 0.4, 0)
+        end)
+ 
+        task.wait(1.2)
+        connection:Disconnect()
+ 
+        TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+            Size = UDim2.new(0, 0, 0, 0),
+            BackgroundTransparency = 1
+        }):Play()
+ 
+        TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 0}):Play()
+ 
+        task.wait(0.4)
+        ScreenGui:Destroy()
+        Blur:Destroy()
+        print("[ArbixHub]: ArbixBlur destroyed")
+        local success, errorMsg = pcall(function()
+            local func = loadstring(scriptToLoad)
+            if not func then
+                error("Failed to compile scriptToLoad")
+            end
+            func()
+        end)
+        if not success then
+            warn("[ArbixHub ERROR]: Failed to execute scriptToLoad: " .. tostring(errorMsg))
+        else
+            print("[ArbixHub]: Successfully executed scriptToLoad")
+        end
+    else
+        NotificationFrame.Visible = true
+        NotificationLabel.Text = "Invalid code, please try again"
+ 
+        TweenService:Create(NotificationLabel, TweenInfo.new(0.3), {
+            TextTransparency = 0
+        }):Play()
+ 
+        local shakeTime = 0.4
+        for i = 1, 3 do
+            TweenService:Create(InputBox, TweenInfo.new(shakeTime/6), {Position = UDim2.new(0.1, -5, 0.15, 0)}):Play()
+            task.wait(shakeTime/6)
+            TweenService:Create(InputBox, TweenInfo.new(shakeTime/6), {Position = UDim2.new(0.1, 5, 0.15, 0)}):Play()
+            task.wait(shakeTime/6)
+        end
+        TweenService:Create(InputBox, TweenInfo.new(shakeTime/6), {Position = UDim2.new(0.1, 0, 0.15, 0)}):Play()
+        InputBox.Text = ""
+        TweenService:Create(InputStroke, TweenInfo.new(0.3), {Color = Color3.fromRGB(255, 80, 80)}):Play()
+ 
+        task.wait(2)
+        TweenService:Create(NotificationLabel, TweenInfo.new(0.3), {
+            TextTransparency = 1
+        }):Play()
+        TweenService:Create(InputStroke, TweenInfo.new(0.3), {Color = Color3.fromRGB(60, 60, 70)}):Play()
+        task.wait(0.3)
+        NotificationFrame.Visible = false
+    end
+end)
+ 
+CloseButton.MouseButton1Click:Connect(function()
+    TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+        Size = UDim2.new(0, 0, 0, 0),
+        BackgroundTransparency = 1
+    }):Play()
+    TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 0}):Play()
+    task.wait(0.4)
+    ScreenGui:Destroy()
+    Blur:Destroy()
+end)
+ 
+local isGuiVisible = true
+UIS.InputBegan:Connect(function(input, gameProcessedEvent)
+    if gameProcessedEvent then return end
+    if input.KeyCode == Enum.KeyCode.RightShift then
+        isGuiVisible = not isGuiVisible
+        if isGuiVisible then
+            TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Back, Enum.EasingDirection.Out), {
+                Size = isMinimized and minimizedSize or originalSize,
+                BackgroundColor3 = Color3.fromRGB(10, 10, 15),
+                BackgroundTransparency = 0
+            }):Play()
+            TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 15}):Play()
+            TweenService:Create(DropShadow, TweenInfo.new(0.4), {
+                ImageTransparency = 0.6,
+                Visible = true
+            }):Play()
+            TweenService:Create(Content, TweenInfo.new(0.4), {
+                Visible = not isMinimized
+            }):Play()
+            if not isMinimized then
+                TweenService:Create(InputBox, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                    TextTransparency = 0,
+                    BackgroundTransparency = 0
+                }):Play()
+                TweenService:Create(InputStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+                TweenService:Create(SubmitButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                    TextTransparency = 0,
+                    BackgroundTransparency = 0
+                }):Play()
+                TweenService:Create(SubmitStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+                TweenService:Create(GetCodeButton, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                    TextTransparency = 0,
+                    BackgroundTransparency = 0
+                }):Play()
+                TweenService:Create(GetCodeStroke, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {Transparency = 0}):Play()
+            end
+        else
+            TweenService:Create(Frame, TweenInfo.new(0.4, Enum.EasingStyle.Exponential), {
+                Size = UDim2.new(0, 0, 0, 0),
+                BackgroundTransparency = 1
+            }):Play()
+            TweenService:Create(Blur, TweenInfo.new(0.4), {Size = 0}):Play()
+            TweenService:Create(DropShadow, TweenInfo.new(0.4), {ImageTransparency = 1}):Play()
+        end
+    end
+end)
+ 
+local dragging = false
+local dragInput, dragStart, startPos
+ 
+TitleBar.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 then
+        dragging = true
+        dragStart = input.Position
+        startPos = Frame.Position
+        input.Changed:Connect(function()
+            if input.UserInputState == Enum.UserInputState.End then
+                dragging = false
+            end
+        end)
+    end
+end)
+ 
+TitleBar.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement then
+        dragInput = input
+    end
+end)
+ 
+UIS.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        local delta = input.Position - dragStart
+        local goal = UDim2.new(
+            startPos.X.Scale,
+            startPos.X.Offset + delta.X,
+            startPos.Y.Scale,
+            startPos.Y.Offset + delta.Y
+        )
+        Frame:TweenPosition(goal, Enum.EasingDirection.Out, Enum.EasingStyle.Sine, 0.05, true)
+    end
+end)
